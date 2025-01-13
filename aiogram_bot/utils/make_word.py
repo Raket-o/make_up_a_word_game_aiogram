@@ -1,11 +1,11 @@
 """A module for searching for words in the dictionary."""
 
-import os
+import pathlib
 
-PATH_FILE = os.getcwd() + "/utils/"
+PATH_FILE = pathlib.Path(__file__).parent.resolve()
 FILE_NAME = "russian_nouns.txt"
 
-with open(PATH_FILE + FILE_NAME, "r", encoding="utf-8") as file:
+with open(PATH_FILE.joinpath(FILE_NAME), "r", encoding="utf-8") as file:
     LIST_WORDS = file.read().lower().split()
 
 

@@ -3,8 +3,8 @@
 from aiogram import F, Router
 from aiogram.filters import Command, CommandStart
 
-from aiogram_bot.handlers.default_heandlers.start import start_command_1, start_command_2
-from aiogram_bot.states.states import DialogueUserState
+from handlers.default_heandlers.start import start_command_1, start_command_2
+from states.states import DialogueUserState
 
 
 def register_routers(router: Router):

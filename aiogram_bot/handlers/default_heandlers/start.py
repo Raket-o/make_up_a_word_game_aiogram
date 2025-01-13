@@ -6,8 +6,8 @@ from aiogram import types
 from aiogram.fsm.context import FSMContext
 
 from config_data.config import START_MESSAGE
-from aiogram_bot.states.states import DialogueUserState
-from aiogram_bot.utils.make_word import find_words
+from states.states import DialogueUserState
+from utils.make_word import find_words
 
 start_logger = logging.getLogger(__name__)
 
