@@ -13,9 +13,14 @@ async def find_words(user_word: str) -> dict[int:list[str]]:
     """
     The find_words function. Finds words from symbols in the dictionary.
     """
+    user_word_split = list(user_word)
+    for ind, sym in enumerate(user_word):
+        if ord(sym) == 235:
+            user_word_split[ind] = "ё"
+
+    user_word = "".join(user_word_split)
     result_words = []
     dict_count_letter = {sym: user_word.count(sym) for sym in user_word}
-
     for word in LIST_WORDS:
         if all(sym in user_word for sym in word):
             list_true = []

@@ -7,7 +7,7 @@ from handlers.default_heandlers.start import start_command_1, start_command_2
 from states.states import DialogueUserState
 
 
-def register_routers(router: Router):
+async def register_routers(router: Router):
     """
     The register_routers function. Collects handlers in the main router.
     """

@@ -14,7 +14,7 @@ async def main(bot: Bot, dp: Dispatcher) -> None:
     dp.startup.register(start_up)
     dp.shutdown.register(on_shutdown)
 
-    register_routers(dp)
+    await register_routers(dp)
 
     await bot.delete_webhook(drop_pending_updates=True)
     await dp.start_polling(bot)
