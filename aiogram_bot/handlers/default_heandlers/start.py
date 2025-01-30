@@ -34,6 +34,6 @@ async def start_command_2(message: types.Message, state: FSMContext) -> None:
         for count_letter, words in dict_words.items():
             await message.answer(f"Слова из {count_letter} букв: {', '.join(words)}")
     else:
-        await message.answer("Что-то слишком тяжело, давай попробуем буквы")
+        await message.answer("Что-то слишком тяжело, давай попробуем другие буквы")
 
     await start_command_1(message, state)
