@@ -7,10 +7,13 @@ from aiogram import Bot, Dispatcher
 from handlers.routers import register_routers
 from loader import bot, dp, on_shutdown, start_up
 from utils import logging
+from utils.commands import set_default_commands
 
 
 async def main(bot: Bot, dp: Dispatcher) -> None:
     """The main function. Launches the bot."""
+    await set_default_commands(bot)
+    
     dp.startup.register(start_up)
     dp.shutdown.register(on_shutdown)
 
