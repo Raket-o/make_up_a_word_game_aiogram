@@ -1,0 +1,2 @@
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-05 13:33:18,001 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-05 13:33:18,002 | line ¹: 172 | message: Update id=657179873 is handled. Duration 4672 ms by bot id=7656276390

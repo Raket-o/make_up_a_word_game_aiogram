@@ -1,0 +1,25 @@
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 12:41:34,991 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 12:41:34,998 | line №: 172 | message: Update id=657179880 is handled. Duration 1219 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 12:44:23,839 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 12:44:23,839 | line №: 172 | message: Update id=657179881 is handled. Duration 1218 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 12:47:14,361 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 12:47:14,362 | line №: 172 | message: Update id=657179882 is handled. Duration 969 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 13:42:47,129 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 13:42:47,129 | line №: 172 | message: Update id=657179883 is handled. Duration 1266 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 14:00:44,216 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 14:00:44,217 | line №: 172 | message: Update id=657179884 is handled. Duration 765 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 14:04:46,433 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 14:04:46,433 | line №: 172 | message: Update id=657179885 is handled. Duration 858 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 14:11:20,882 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 14:11:20,882 | line №: 172 | message: Update id=657179886 is handled. Duration 782 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 15:36:57,039 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 15:36:57,039 | line №: 172 | message: Update id=657179887 is handled. Duration 1484 ms by bot id=7656276390
+level: ERROR | logger: aiogram.dispatcher | time: 2025-02-07 16:17:05,574 | line №: 219 | message: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+level: WARNING | logger: aiogram.dispatcher | time: 2025-02-07 16:17:05,576 | line №: 221 | message: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7656276390)
+level: INFO | logger: aiogram.dispatcher | time: 2025-02-07 16:17:16,945 | line №: 233 | message: Connection established (tryings = 1, bot id = 7656276390)
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 16:33:39,546 | line №: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-02-07 16:33:39,547 | line №: 172 | message: Update id=657179888 is handled. Duration 1046 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 18:16:18,750 | line №: 23 | message: start_logger-UserID=5067372404 Наталья Соболева
+level: INFO | logger: aiogram.event | time: 2025-02-07 18:16:18,751 | line №: 172 | message: Update id=657179889 is handled. Duration 312 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-02-07 18:16:35,718 | line №: 23 | message: start_logger-UserID=5067372404 Наталья Соболева
+level: INFO | logger: aiogram.event | time: 2025-02-07 18:16:35,718 | line №: 172 | message: Update id=657179890 is handled. Duration 983 ms by bot id=7656276390
