@@ -1,0 +1,21 @@
+level: INFO | logger: root | time: 2025-03-20 23:24:33,918 | line ¹: 17 | message: Bot started
+level: INFO | logger: aiogram.dispatcher | time: 2025-03-20 23:24:33,919 | line ¹: 527 | message: Start polling
+level: INFO | logger: aiogram.dispatcher | time: 2025-03-20 23:24:33,989 | line ¹: 341 | message: Run polling for bot @make_word_game_bot id=7656276390 - 'make_word_game_bot'
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-20 23:33:54,664 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-20 23:33:54,664 | line ¹: 172 | message: Update id=657179994 is handled. Duration 266 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-20 23:34:03,704 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-20 23:34:03,709 | line ¹: 172 | message: Update id=657179995 is handled. Duration 1235 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-20 23:38:32,980 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-20 23:38:32,980 | line ¹: 172 | message: Update id=657179996 is handled. Duration 608 ms by bot id=7656276390
+level: INFO | logger: aiogram.event | time: 2025-03-20 23:40:57,945 | line ¹: 172 | message: Update id=657179997 is handled. Duration 233 ms by bot id=7656276390
+level: INFO | logger: aiogram.event | time: 2025-03-20 23:41:12,989 | line ¹: 172 | message: Update id=657179998 is handled. Duration 405 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-21 00:00:52,941 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-21 00:00:52,941 | line ¹: 172 | message: Update id=657179999 is handled. Duration 735 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-21 00:03:43,247 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-21 00:03:43,247 | line ¹: 172 | message: Update id=657180000 is handled. Duration 546 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-21 00:04:28,032 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-21 00:04:28,033 | line ¹: 172 | message: Update id=657180001 is handled. Duration 734 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-21 06:57:21,607 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-21 06:57:21,607 | line ¹: 172 | message: Update id=657180002 is handled. Duration 875 ms by bot id=7656276390
+level: INFO | logger: handlers.default_heandlers.start | time: 2025-03-21 07:01:46,003 | line ¹: 23 | message: start_logger-UserID=5203073246 Mikhail Sobolev
+level: INFO | logger: aiogram.event | time: 2025-03-21 07:01:46,003 | line ¹: 172 | message: Update id=657180003 is handled. Duration 545 ms by bot id=7656276390
