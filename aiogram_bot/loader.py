@@ -12,12 +12,12 @@ from config_data.config import BOT_TOKEN
 logger = logging.getLogger(__name__)
 
 
-async def start_up():
+async def start_up() -> None:
     """The start_up function. Outputs text to the console at startup."""
     logging.info("Bot started")
 
 
-async def on_shutdown():
+async def on_shutdown() -> None:
     """The on_shutdown function. Outputs text to the console at startup."""
     logging.info("Bot stopped")
 
@@ -29,4 +29,3 @@ bot = Bot(
 
 loop = get_event_loop()
 dp = Dispatcher()
-

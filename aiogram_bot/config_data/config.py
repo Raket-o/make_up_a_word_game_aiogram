@@ -1,5 +1,5 @@
 """
-the config module is used to check whether the environment has been created
+The config module is used to check whether the environment has been created.
 """
 
 import os
@@ -13,3 +13,4 @@ else:
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 START_MESSAGE = os.getenv("START_MESSAGE")
+ADMINS_TELEGRAM_ID = [int(i) for i in os.getenv("ADMINS_TELEGRAM_ID").split()]
